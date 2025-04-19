@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**pedromorais486/pedromorais486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### O HAI! ヽ(´▽`)/
+  
+I do front-end stuff! Been a software engineer for more than a decade now.
+  
+I'm basically an enthusiast of anything interesting, did a lot of work throughout the years with `Angular`, `Vue` and some `React` on the Front-End side, but I also very rarely do some work with some `Node.JS` (JS and TS, but prefer TS!) and `.NET`.
+  
+I'm also kinda experienced with cloud techs (AWS, OCI, Azure), containerization (Docker) and CI/CD (GH Actions and Jenkins).  
+    
+Liked something I did?  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pedromorais486)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Next.JS!
+- 👯 I’m looking to collaborate on something related to SDRs!
+- 💬 Ask me about anything tech!
+- 📫 How to reach me: @pedromorais486 on bsky
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may notice my account is empty, sadly I had to do some cleanup - I'll be reuploading all my content soon!
