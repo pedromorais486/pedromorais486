@@ -16,5 +16,3 @@ Liked something I did?
 - 💬 Ask me about anything tech!
 - 📫 How to reach me: @pedromorais486 on bsky
 - 😄 Pronouns: he/him
-
-You may notice my account is empty, sadly I had to do some cleanup - I'll be reuploading all my content soon!
